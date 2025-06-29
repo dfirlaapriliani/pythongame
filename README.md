@@ -38,3 +38,23 @@ Ringan, seru, dan bikin nostalgia – lengkap dengan musik latar dan efek suara!
 </div>
 
 ---
+<div align="center" style="margin-top: 40px;">
+  <h3>👩‍💻 Dibuat dengan <span style="color:#e25555;">❤️</span> oleh <strong>Firla (Apil)</strong></h3>
+  <p><em>"Mari bangun hal-hal menyenangkan dengan kode."</em></p>
+
+  <br/>
+
+  <!-- Badges -->
+  <a href="https://github.com/dfirlaapriliani" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+
+  <a href="https://opensource.org/licenses/MIT" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/License-MIT-28a745?style=flat-square&logo=open-source-initiative&logoColor=white" alt="MIT License">
+  </a>
+
+  <br/><br/>
+
+  <!-- GIF -->
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="320" alt="Coding Fun GIF" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
